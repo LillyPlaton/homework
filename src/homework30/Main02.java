@@ -7,7 +7,7 @@ public class Main02 {
     int b = 3;
     double c = 2;
     double d = 7;
-    System.out.println(a * (b-d) + c * a / d);
+    System.out.println(a * (b - d) + c * a / d);
   }
 
 }
